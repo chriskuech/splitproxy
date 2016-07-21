@@ -1,6 +1,6 @@
-/* 
- * tcpclient.c - A simple TCP client
- * http://www.cs.cmu.edu/afs/cs/academic/class/15213-f99/www/class26/tcpclient.c
+/**
+ * networking.c 
+ * derived from http://www.cs.cmu.edu/afs/cs/academic/class/15213-f99/www/class26/
  * usage: tcpclient <host> <port>
  */
 
